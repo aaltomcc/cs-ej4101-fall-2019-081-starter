@@ -1,5 +1,10 @@
-# ***About***
-Welcome to the CS-E4101 Introduction to DevOps course!
-#Requirements
-- A random picture of a diver ![Random picture of a diver](https://images.pexels.com/photos/37530/divers-scuba-divers-diving-underwater-37530.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=480&w=640 "Random diver")
-- A link to my [diary](/diary-081.md)
+# About me
+
+My name is Alex Savia and I am currently studying towards my Bachelor of science degree in Aalto University. My major is Computer science and my minor is mathematics. At the time of writing this I am on schedule to graduate in the following spring. And in the following autumn my intensions are to continue my studies towards a master decree in Aalto University. My master’s major will probably be cybersecurity.
+
+Computers have always been an interest of mine and this was one of the major reasons why I decided to start studying computer science, the other being a good employment situation in the field of computer science. And considering the future, the employment situation will not worsen. 
+
+And because scuba diving is my hobby, here is a picture of a random diver:
+![Random picture of a diver](/scuba-diver.jpeg "Random diver")
+
+And a link to my [diary](/diary-081.md =640x480)
