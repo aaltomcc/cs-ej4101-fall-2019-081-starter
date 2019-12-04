@@ -6,6 +6,6 @@ Computers have always been an interest of mine and this was one of the major rea
 
 And because scuba diving is my hobby, here is a picture of a random diver:
 
-![Random picture of a diver](./scuba-diver.jpeg "Random diver") 
+![Random picture of a diver](./scuba-diver.jpeg "Random diver" =640x480) 
 
 And a link to my [diary](/diary-081.md)
